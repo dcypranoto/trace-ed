@@ -1,0 +1,9 @@
+arch,metric,metric_label,n,mean,sd,min,max
+multi,total_score,Total Score,450,3.3444444444444446,2.996512862365718,0.0,8.0
+multi,grounding_rate,Grounding Rate,450,0.7518518518518519,0.28989886840120593,0.0,1.0
+multi,mean_coherence,Mean Coherence,450,0.7842345679012346,0.13677032004223968,0.4444444444444445,1.0
+multi,contradiction_rate,Contradiction Rate,450,0.03333333333333333,0.10727093133615143,0.0,0.6666666666666666
+single,total_score,Total Score,450,0.0,0.0,0.0,0.0
+single,grounding_rate,Grounding Rate,450,0.0,0.0,0.0,0.0
+single,mean_coherence,Mean Coherence,450,0.0,0.0,0.0,0.0
+single,contradiction_rate,Contradiction Rate,450,0.0,0.0,0.0,0.0

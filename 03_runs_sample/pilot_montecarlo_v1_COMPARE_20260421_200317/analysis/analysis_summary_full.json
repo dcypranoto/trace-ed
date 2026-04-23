@@ -1,0 +1,423 @@
+{
+  "run_dir": "C:\\Users\\dcypr\\Documents\\Kuliah\\Tesis\\trace-ed\\03_runs\\pilot_montecarlo_v1_COMPARE_20260421_200317",
+  "analysis_dir": "C:\\Users\\dcypr\\Documents\\Kuliah\\Tesis\\trace-ed\\03_runs\\pilot_montecarlo_v1_COMPARE_20260421_200317\\analysis",
+  "records_path": "C:\\Users\\dcypr\\Documents\\Kuliah\\Tesis\\trace-ed\\03_runs\\pilot_montecarlo_v1_COMPARE_20260421_200317\\records.json",
+  "overall_by_architecture": [
+    {
+      "arch": "multi",
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 450,
+      "mean": 3.3444444444444446,
+      "sd": 2.996512862365718,
+      "min": 0.0,
+      "max": 8.0
+    },
+    {
+      "arch": "multi",
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 450,
+      "mean": 0.7518518518518519,
+      "sd": 0.28989886840120593,
+      "min": 0.0,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 450,
+      "mean": 0.7842345679012346,
+      "sd": 0.13677032004223968,
+      "min": 0.4444444444444445,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 450,
+      "mean": 0.03333333333333333,
+      "sd": 0.10727093133615143,
+      "min": 0.0,
+      "max": 0.6666666666666666
+    },
+    {
+      "arch": "single",
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 450,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 450,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 450,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 450,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  ],
+  "by_architecture_and_temperature": [
+    {
+      "arch": "multi",
+      "temperature": 0.0,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 3.3666666666666667,
+      "sd": 2.9841115428588973,
+      "min": 0.0,
+      "max": 8.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.0,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.7666666666666667,
+      "sd": 0.2723937580658903,
+      "min": 0.0,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.0,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.7868518518518518,
+      "sd": 0.1396695683091075,
+      "min": 0.5,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.0,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.033333333333333326,
+      "sd": 0.10033500931359766,
+      "min": 0.0,
+      "max": 0.3333333333333333
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.2,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 3.34,
+      "sd": 3.0096712121707125,
+      "min": 0.0,
+      "max": 8.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.2,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.7488888888888889,
+      "sd": 0.28098226201751814,
+      "min": 0.0,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.2,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.788148148148148,
+      "sd": 0.13996772154121404,
+      "min": 0.5,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.2,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.024444444444444442,
+      "sd": 0.08718539194002355,
+      "min": 0.0,
+      "max": 0.3333333333333333
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.7,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 3.3266666666666667,
+      "sd": 3.015611876355165,
+      "min": 0.0,
+      "max": 8.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.7,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.7400000000000002,
+      "sd": 0.31580301395674026,
+      "min": 0.0,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.7,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.7777037037037037,
+      "sd": 0.13117029129038274,
+      "min": 0.4444444444444445,
+      "max": 1.0
+    },
+    {
+      "arch": "multi",
+      "temperature": 0.7,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.042222222222222223,
+      "sd": 0.129800320843503,
+      "min": 0.0,
+      "max": 0.6666666666666666
+    },
+    {
+      "arch": "single",
+      "temperature": 0.0,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.0,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.0,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.0,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.2,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.2,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.2,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.2,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.7,
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.7,
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.7,
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "arch": "single",
+      "temperature": 0.7,
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "n": 150,
+      "mean": 0.0,
+      "sd": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  ],
+  "icc_by_architecture": [
+    {
+      "arch": "multi",
+      "metric": "total_score",
+      "icc_1k": 0.9907873846194127,
+      "n_answers_used": 10,
+      "n_repeated_runs_per_answer": 45
+    },
+    {
+      "arch": "single",
+      "metric": "total_score",
+      "icc_1k": null,
+      "n_answers_used": 10,
+      "n_repeated_runs_per_answer": 45
+    }
+  ],
+  "architecture_comparison": [
+    {
+      "metric": "total_score",
+      "metric_label": "Total Score",
+      "single_n": 450,
+      "single_mean": 0.0,
+      "single_sd": 0.0,
+      "multi_n": 450,
+      "multi_mean": 3.3444444444444446,
+      "multi_sd": 2.996512862365718,
+      "welch_t": -23.67631431524669,
+      "p_value": 5.051740445944058e-81,
+      "cohens_d": -1.5784209543497791
+    },
+    {
+      "metric": "grounding_rate",
+      "metric_label": "Grounding Rate",
+      "single_n": 450,
+      "single_mean": 0.0,
+      "single_sd": 0.0,
+      "multi_n": 450,
+      "multi_mean": 0.7518518518518519,
+      "multi_sd": 0.28989886840120593,
+      "welch_t": -55.01637993526191,
+      "p_value": 1.1692724982647083e-201,
+      "cohens_d": -3.667758662350794
+    },
+    {
+      "metric": "mean_coherence",
+      "metric_label": "Mean Coherence",
+      "single_n": 450,
+      "single_mean": 0.0,
+      "single_sd": 0.0,
+      "multi_n": 450,
+      "multi_mean": 0.7842345679012346,
+      "multi_sd": 0.13677032004223968,
+      "welch_t": -121.63550852976074,
+      "p_value": 0.0,
+      "cohens_d": -8.109033901984047
+    },
+    {
+      "metric": "contradiction_rate",
+      "metric_label": "Contradiction Rate",
+      "single_n": 450,
+      "single_mean": 0.0,
+      "single_sd": 0.0,
+      "multi_n": 450,
+      "multi_mean": 0.03333333333333333,
+      "multi_sd": 0.10727093133615143,
+      "welch_t": -6.591783742146416,
+      "p_value": 1.2217961619824536e-10,
+      "cohens_d": -0.4394522494764278
+    }
+  ]
+}

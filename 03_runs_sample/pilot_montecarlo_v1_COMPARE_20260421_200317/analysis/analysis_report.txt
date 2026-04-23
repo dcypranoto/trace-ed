@@ -1,0 +1,32 @@
+ANALYSIS REPORT
+Run directory: C:\Users\dcypr\Documents\Kuliah\Tesis\trace-ed\03_runs\pilot_montecarlo_v1_COMPARE_20260421_200317
+Analysis dir : C:\Users\dcypr\Documents\Kuliah\Tesis\trace-ed\03_runs\pilot_montecarlo_v1_COMPARE_20260421_200317\analysis
+Records file : C:\Users\dcypr\Documents\Kuliah\Tesis\trace-ed\03_runs\pilot_montecarlo_v1_COMPARE_20260421_200317\records.json
+
+1) OVERALL SUMMARY BY ARCHITECTURE
+- multi | Total Score: n=450, mean=3.344444, sd=2.996513, min=0.000000, max=8.000000
+- multi | Grounding Rate: n=450, mean=0.751852, sd=0.289899, min=0.000000, max=1.000000
+- multi | Mean Coherence: n=450, mean=0.784235, sd=0.136770, min=0.444444, max=1.000000
+- multi | Contradiction Rate: n=450, mean=0.033333, sd=0.107271, min=0.000000, max=0.666667
+- single | Total Score: n=450, mean=0.000000, sd=0.000000, min=0.000000, max=0.000000
+- single | Grounding Rate: n=450, mean=0.000000, sd=0.000000, min=0.000000, max=0.000000
+- single | Mean Coherence: n=450, mean=0.000000, sd=0.000000, min=0.000000, max=0.000000
+- single | Contradiction Rate: n=450, mean=0.000000, sd=0.000000, min=0.000000, max=0.000000
+
+2) ICC(1,k) TOTAL SCORE BY ARCHITECTURE
+- multi: ICC(1,k)=0.990787, answers_used=10, repeated_runs_per_answer=45
+- single: ICC(1,k)=None, answers_used=10, repeated_runs_per_answer=45
+
+3) OVERALL ARCHITECTURE COMPARISON
+- Total Score: single_mean=0.000000, multi_mean=3.344444, welch_t=-23.676314, p_value=0.000000, cohens_d=-1.578421
+- Grounding Rate: single_mean=0.000000, multi_mean=0.751852, welch_t=-55.016380, p_value=0.000000, cohens_d=-3.667759
+- Mean Coherence: single_mean=0.000000, multi_mean=0.784235, welch_t=-121.635509, p_value=0.000000, cohens_d=-8.109034
+- Contradiction Rate: single_mean=0.000000, multi_mean=0.033333, welch_t=-6.591784, p_value=0.000000, cohens_d=-0.439452
+
+4) OUTPUT FILES
+- analysis_summary_by_architecture.csv
+- analysis_summary_by_architecture_and_temperature.csv
+- analysis_icc_by_architecture.csv
+- analysis_architecture_comparison.csv
+- analysis_summary_full.json
+- analysis_report.txt

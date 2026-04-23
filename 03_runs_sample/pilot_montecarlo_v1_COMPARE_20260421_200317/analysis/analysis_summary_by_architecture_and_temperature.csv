@@ -1,0 +1,25 @@
+arch,temperature,metric,metric_label,n,mean,sd,min,max
+multi,0.0,total_score,Total Score,150,3.3666666666666667,2.9841115428588973,0.0,8.0
+multi,0.0,grounding_rate,Grounding Rate,150,0.7666666666666667,0.2723937580658903,0.0,1.0
+multi,0.0,mean_coherence,Mean Coherence,150,0.7868518518518518,0.1396695683091075,0.5,1.0
+multi,0.0,contradiction_rate,Contradiction Rate,150,0.033333333333333326,0.10033500931359766,0.0,0.3333333333333333
+multi,0.2,total_score,Total Score,150,3.34,3.0096712121707125,0.0,8.0
+multi,0.2,grounding_rate,Grounding Rate,150,0.7488888888888889,0.28098226201751814,0.0,1.0
+multi,0.2,mean_coherence,Mean Coherence,150,0.788148148148148,0.13996772154121404,0.5,1.0
+multi,0.2,contradiction_rate,Contradiction Rate,150,0.024444444444444442,0.08718539194002355,0.0,0.3333333333333333
+multi,0.7,total_score,Total Score,150,3.3266666666666667,3.015611876355165,0.0,8.0
+multi,0.7,grounding_rate,Grounding Rate,150,0.7400000000000002,0.31580301395674026,0.0,1.0
+multi,0.7,mean_coherence,Mean Coherence,150,0.7777037037037037,0.13117029129038274,0.4444444444444445,1.0
+multi,0.7,contradiction_rate,Contradiction Rate,150,0.042222222222222223,0.129800320843503,0.0,0.6666666666666666
+single,0.0,total_score,Total Score,150,0.0,0.0,0.0,0.0
+single,0.0,grounding_rate,Grounding Rate,150,0.0,0.0,0.0,0.0
+single,0.0,mean_coherence,Mean Coherence,150,0.0,0.0,0.0,0.0
+single,0.0,contradiction_rate,Contradiction Rate,150,0.0,0.0,0.0,0.0
+single,0.2,total_score,Total Score,150,0.0,0.0,0.0,0.0
+single,0.2,grounding_rate,Grounding Rate,150,0.0,0.0,0.0,0.0
+single,0.2,mean_coherence,Mean Coherence,150,0.0,0.0,0.0,0.0
+single,0.2,contradiction_rate,Contradiction Rate,150,0.0,0.0,0.0,0.0
+single,0.7,total_score,Total Score,150,0.0,0.0,0.0,0.0
+single,0.7,grounding_rate,Grounding Rate,150,0.0,0.0,0.0,0.0
+single,0.7,mean_coherence,Mean Coherence,150,0.0,0.0,0.0,0.0
+single,0.7,contradiction_rate,Contradiction Rate,150,0.0,0.0,0.0,0.0
