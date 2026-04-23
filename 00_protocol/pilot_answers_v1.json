@@ -1,0 +1,65 @@
+{
+  "question_id": "Q-PILOT-001",
+  "question_text": "Jelaskan proses fotosintesis secara singkat.",
+  "rubric": [
+    {"indicator_id": "I1", "name": "Ketepatan konsep", "max_score": 3},
+    {"indicator_id": "I2", "name": "Urutan proses", "max_score": 3},
+    {"indicator_id": "I3", "name": "Istilah kunci", "max_score": 3}
+  ],
+  "answers": [
+    {
+      "answer_id": "A1_full_01",
+      "label": "full_mastery",
+      "text": "Fotosintesis terjadi di kloroplas pada daun. Klorofil menangkap cahaya untuk mengubah air dan karbon dioksida menjadi glukosa, lalu oksigen dilepaskan sebagai hasil samping."
+    },
+    {
+      "answer_id": "A2_full_02",
+      "label": "full_mastery",
+      "text": "Di daun, klorofil menyerap cahaya matahari. Energi ini digunakan untuk mengolah H2O dan CO2 menjadi glukosa sebagai makanan tumbuhan, dan menghasilkan O2."
+    },
+
+    {
+      "answer_id": "A3_partial_01",
+      "label": "partial_mastery",
+      "text": "Fotosintesis terjadi di daun dengan bantuan cahaya matahari. Tumbuhan memakai air dan karbon dioksida untuk membuat makanan dan menghasilkan oksigen."
+    },
+    {
+      "answer_id": "A4_partial_02",
+      "label": "partial_mastery",
+      "text": "Tumbuhan membuat makanan di daun dengan cahaya matahari dari air dan karbon dioksida. Hasilnya oksigen, tapi saya tidak tahu tahapan detailnya."
+    },
+
+    {
+      "answer_id": "A5_misconception_01",
+      "label": "misconception",
+      "text": "Fotosintesis adalah proses tumbuhan mengubah oksigen menjadi karbon dioksida saat kena cahaya matahari supaya bisa membuat makanan."
+    },
+    {
+      "answer_id": "A6_misconception_02",
+      "label": "misconception",
+      "text": "Saat fotosintesis, tumbuhan mengambil oksigen dari udara lalu menghasilkan karbon dioksida dan air untuk makanan."
+    },
+
+    {
+      "answer_id": "A7_offtopic_01",
+      "label": "off_topic",
+      "text": "Tumbuhan membutuhkan air setiap hari supaya tidak layu. Kalau tidak disiram, tumbuhan akan mati."
+    },
+    {
+      "answer_id": "A8_offtopic_02",
+      "label": "off_topic",
+      "text": "Daun berguna untuk tempat tumbuhan bernapas dan mengeluarkan uap air, terutama saat cuaca panas."
+    },
+
+    {
+      "answer_id": "A9_shallow_01",
+      "label": "shallow",
+      "text": "Fotosintesis itu tumbuhan membuat makanan dengan bantuan sinar matahari."
+    },
+    {
+      "answer_id": "A10_shallow_02",
+      "label": "shallow",
+      "text": "Fotosintesis adalah proses di daun untuk menghasilkan oksigen."
+    }
+  ]
+}

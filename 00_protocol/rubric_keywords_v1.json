@@ -1,0 +1,7 @@
+{
+  "Q-PILOT-001": {
+    "I1": ["klorofil", "glukosa", "reaksi terang", "reaksi gelap"],
+    "I2": ["tahapan", "urutan", "reaksi terang", "reaksi gelap"],
+    "I3": ["klorofil", "glukosa", "karbon dioksida", "oksigen"]
+  }
+}
